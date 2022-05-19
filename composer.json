@@ -1,0 +1,20 @@
+{
+    "name": "jiaklika/cc",
+    "description": "this is a test project",
+    "autoload": {
+        "psr-4": {
+            "Jiaklika\\Cc\\": "src/"
+        },
+        "files": [
+            "src/common.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "jianghu",
+            "email": "76112703@qq.com"
+        }
+    ],
+    "minimum-stability": "dev-main",
+    "require": {}
+}
