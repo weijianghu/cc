@@ -15,6 +15,7 @@
             "email": "76112703@qq.com"
         }
     ],
-    "minimum-stability": "dev-main",
-    "require": {}
+    "minimum-stability": "stable",
+    "require": {},
+    "license": "MIT"
 }
