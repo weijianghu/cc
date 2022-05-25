@@ -3,7 +3,7 @@
     "description": "this is a test project",
     "autoload": {
         "psr-4": {
-            "jiaklika\\cc\\": "src"
+            "jiaklika\\cc\\": "src/"
         },
         "files": [
             "src/common.php"
