@@ -6,7 +6,7 @@
  * Time: 15:52
  */
 
-namespace weijianghu\cc\base;
+namespace wc\base;
 
 
 class BaseController
