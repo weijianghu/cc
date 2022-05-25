@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "wc\\": "src/"
-        }
+        },
+        "files": [
+            "src/helper.php"
+        ]
     },
     "authors": [
         {
