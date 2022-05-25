@@ -5,7 +5,7 @@
  * Date: 2022/5/19
  * Time: 9:34
  */
-namespace jiklika\cc\base;
+namespace jiklika\base;
 
 class BaseController
 {
