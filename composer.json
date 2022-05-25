@@ -1,13 +1,11 @@
 {
-    "name": "jiaklika/cc",
-    "description": "this is a test project",
+    "name": "weijianghu/cc",
+    "description": "this is a test",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jiaklika\\": "src/"
-        },
-        "files": [
-            "src/common.php"
-        ]
+            "weijianghu\\cc\\": "src/"
+        }
     },
     "authors": [
         {
@@ -15,7 +13,5 @@
             "email": "76112703@qq.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {},
-    "license": "MIT"
+    "require": {}
 }

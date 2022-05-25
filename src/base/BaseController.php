@@ -2,15 +2,17 @@
 /**
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2022/5/19
- * Time: 9:34
+ * Date: 2022/5/25
+ * Time: 15:52
  */
-namespace jiklika\base;
+
+namespace weijianghu\cc\base;
+
 
 class BaseController
 {
     public function __construct()
     {
-        echo "project init...";
+        echo "hello";
     }
 }
